@@ -1,1 +1,29 @@
 Git é um sistema de versionamneto de código distribuido.
+
+Comandos de navegação
+
+dir/ls - Traz uma lista de diretorios contidos na pasta onde a gente está situado.
+cd - Possibilita a navegação entre as pastas
+cd / - Caminho específico
+cd .. - Voltar
+
+Tecla TAB - Tem a função de completar o nome da pasta
+
+mkdir - Criar pastas
+rmdir - deletar repositórios
+del - Se limita a deletar apenas arquivos
+
+echo - printa devolta no terminal um texto
+> - Redirecionador de fluxo - vai jogar em um arquivo
+
+Comandos
+
+git init - inicializar e possibilitar que o git gerencie o código
+git add - adiciona no Staged
+git add . ou * - Adiciona ao Staged tudo que foi modificado
+git commit - Passa os arquivos do Staged para o repositório
+git remote add origin - Para passar o link do GitHub
+git push - Empurra para o repositório remoto/github
+git clone - Para clonar arquivos do github
+
+
